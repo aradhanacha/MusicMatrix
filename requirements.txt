@@ -1,0 +1,6 @@
+oscpy
+PyAudio
+PyQt5
+matplotlib
+scipy
+python-osc
