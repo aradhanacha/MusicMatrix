@@ -35,6 +35,7 @@ OSC signals are sent to `localhost:7701`, can be changed in `beatDetector.py`.
 ## Acknowledgments
 
 Based on [shunfu/python-beat-detector](https://github.com/shunfu/python-beat-detector).
+https://github.com/scheb/python-beat-detector
 
 ## Version History
 
@@ -43,8 +44,6 @@ Based on [shunfu/python-beat-detector](https://github.com/shunfu/python-beat-det
 - Beat detection
 - Automatic beat generation based on BPM
 - Pause and new song detection
-
-### 1.1
 
 - Improved max volume calibration
 - Improved pause detection
